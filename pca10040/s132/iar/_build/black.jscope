@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options Connection="1" IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="2000" SerialNo="0" JTAG_IRPre="-1" JTAG_DRPre="-1" IP="" TargetDevice="nRF52832_xxAA" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ScriptFile Name="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\pca10040\s132\iar\_build\test.jscope\unspecified" />
+            <ElfFile Name="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\pca10040\s132\iar\_build\ble_app_uart_pca10040_s132.out" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="500000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="U_D_A_MAX_Sure" Address="0x200032F4" Type="int" TypeID="12" Size="4" GraphColorRed="255" GraphColorGreen="255" GraphColorBlue="255" YMinSampled="0" YMaxSampled="0" YAvgSampled="0" Offset="4" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="0" YResolution="10" MaxValue="31" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="L_R_A_MAX_Sure" Address="0x200032EC" Type="int" TypeID="12" Size="4" GraphColorRed="255" GraphColorGreen="0" GraphColorBlue="0" YMinSampled="-1031424442" YMaxSampled="1145970295" YAvgSampled="0" Offset="8" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="0" YResolution="10" MaxValue="100" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="Scope_acc_Sqrt_xy" Address="0x20002308" Type="float" TypeID="1" Size="4" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="0" YMaxSampled="11" YAvgSampled="0" Offset="12" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="0" YResolution="50" MaxValue="157" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="Scope_acc_earth[2]" Address="0x200022F4" Type="float" TypeID="1" Size="4" GraphColorRed="255" GraphColorGreen="0" GraphColorBlue="0" YMinSampled="-1739" YMaxSampled="8156" YAvgSampled="0" Offset="16" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="0" YResolution="50" MaxValue="2000" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="Scope_gyro_earth[2]" Address="0x20002300" Type="float" TypeID="1" Size="4" GraphColorRed="0" GraphColorGreen="191" GraphColorBlue="255" YMinSampled="-5" YMaxSampled="5" YAvgSampled="0" Offset="20" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="50" MaxValue="100" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="F_A_MAX_Sure" Address="0x200032FC" Type="int" TypeID="12" Size="4" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="0" YMaxSampled="0" YAvgSampled="0" Offset="24" ShowInGraph="0" ACCoupling="0" YOffset="100" IsAutoConfig="0" YResolution="50" MaxValue="2000000000" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="gyro_Sqrt_xy_D" Address="0x20003318" Type="float" TypeID="1" Size="4" GraphColorRed="102" GraphColorGreen="102" GraphColorBlue="178" YMinSampled="0" YMaxSampled="12" YAvgSampled="0" Offset="28" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="10" MaxValue="20" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="gyro_Sqrt_xy" Address="0x20003310" Type="float" TypeID="1" Size="4" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="0" YMaxSampled="0" YAvgSampled="0" Offset="32" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="1000" MaxValue="2000" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="Scope_gyro_earth_D" Address="0x2000230C" Type="float" TypeID="1" Size="4" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="0" YMaxSampled="14" YAvgSampled="0" Offset="36" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="10" MaxValue="20" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="LR_D_flag" Address="0x2000339F" Type="char" TypeID="10" Size="1" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="0" YMaxSampled="0" YAvgSampled="0" Offset="40" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="1" MaxValue="2" File="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>

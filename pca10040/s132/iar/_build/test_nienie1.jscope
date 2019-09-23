@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options Connection="1" IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="2000" SerialNo="0" JTAG_IRPre="-1" JTAG_DRPre="-1" IP="" TargetDevice="nRF52832_xxAA" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ScriptFile Name="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\pca10040\s132\iar\_build\test.jscope\unspecified" />
+            <ElfFile Name="D:\blue\nRF5_SDK_12.3.0_nienie1\examples\ble_peripheral\ble_app_uart\pca10040\s132\iar\_build\ble_app_uart_pca10040_s132.out" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="500000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="Pressure" Address="0x200022D0" Type="int" TypeID="12" Size="4" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="2862" YMaxSampled="13971" YAvgSampled="0" Offset="4" ShowInGraph="1" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="20000" MaxValue="40000" File="D:\blue\nRF5_SDK_12.3.0_nienie1\examples\ble_peripheral\ble_app_uart\sensor_data.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="CS1237_Data_final" Address="0x20002150" Type="int" TypeID="12" Size="4" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="-60261" YMaxSampled="209845" YAvgSampled="0" Offset="8" ShowInGraph="1" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="200000" MaxValue="400000" File="D:\blue\nRF5_SDK_12.3.0_nienie1\examples\ble_peripheral\ble_app_uart\CS1237.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>

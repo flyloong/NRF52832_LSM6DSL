@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<JScopeProject>
+    <FileVersion major="1" minor="1" />
+    <Project>
+        <Configuration>
+            <JLink>
+                <Options Connection="1" IsRTTSession="0" IsRTTWithTimeStamp="1" SamplingPeriod="2000" SerialNo="0" JTAG_IRPre="-1" JTAG_DRPre="-1" IP="" TargetDevice="nRF52832_xxAA" TargetInterface="SWD" InterfaceSpeed="4000" />
+            </JLink>
+            <ScriptFile Name="D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\pca10040\s132\iar\_build\test.jscope\unspecified" />
+            <ElfFile Name="D:\blue\nRF5_SDK_12.3.0_EEword_SPI\examples\ble_peripheral\ble_app_uart\pca10040\s132\iar\_build\ble_app_uart_pca10040_s132.out" />
+            <DataFile Name="" />
+            <RawFile Name="" />
+            <Scope>
+                <Options TimeResolutionUs="500000" />
+            </Scope>
+        </Configuration>
+        <Windows>
+            <Graph Show="1" />
+            <Watch Show="1" />
+        </Windows>
+        <SelectedSymbols>
+            <Symbol>
+                <Options Name="yaw" Address="0x20002190" Type="float" TypeID="1" Size="4" GraphColorRed="255" GraphColorGreen="215" GraphColorBlue="0" YMinSampled="-179" YMaxSampled="179" YAvgSampled="2" Offset="4" ShowInGraph="1" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="100" MaxValue="200" File="D:\blue\nRF5_SDK_12.3.0_EEword_SPI\examples\ble_peripheral\ble_app_uart\AHRS.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="roll" Address="0x20002194" Type="float" TypeID="1" Size="4" GraphColorRed="0" GraphColorGreen="255" GraphColorBlue="0" YMinSampled="-179" YMaxSampled="179" YAvgSampled="0" Offset="8" ShowInGraph="1" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="100" MaxValue="200" File="D:\blue\nRF5_SDK_12.3.0_EEword_SPI\examples\ble_peripheral\ble_app_uart\AHRS.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+            <Symbol>
+                <Options Name="pitch" Address="0x2000218C" Type="float" TypeID="1" Size="4" GraphColorRed="102" GraphColorGreen="102" GraphColorBlue="178" YMinSampled="-89" YMaxSampled="89" YAvgSampled="2" Offset="12" ShowInGraph="0" ACCoupling="0" YOffset="200" IsAutoConfig="1" YResolution="50" MaxValue="100" File="D:\blue\nRF5_SDK_12.3.0_EEword_SPI\examples\ble_peripheral\ble_app_uart\AHRS.c" Scope="0" DrawStyle="0" />
+            </Symbol>
+        </SelectedSymbols>
+    </Project>
+</JScopeProject>

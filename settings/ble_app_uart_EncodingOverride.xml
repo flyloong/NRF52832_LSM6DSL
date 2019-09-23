@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<userOverrides>
+  <override>
+    <path>C:\Users\25266\Desktop\blue\nRF5_SDK_12.3.0.0611rar\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\25266\Desktop\blue\nRF5_SDK_12.3.00727\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\flash.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\25266\Desktop\blue\nRF5_SDK_12.3.00727\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\25266\Desktop\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\CS1237.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\25266\Desktop\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\pressure_data.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>C:\Users\25266\Desktop\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\CS1237.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\flash.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\blue\nRF5_SDK_12.3.0\examples\ble_peripheral\ble_app_uart\sensor_data.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\blue\nRF5_SDK_12.3.0_EEword_SPI\examples\ble_peripheral\ble_app_uart\main.c</path>
+    <encoding>System</encoding>
+  </override>
+  <override>
+    <path>D:\blue\nRF5_SDK_12.3.0_EEword_SPI\examples\ble_peripheral\ble_app_uart\sensor_data.c</path>
+    <encoding>System</encoding>
+  </override>
+</userOverrides>
+
+
